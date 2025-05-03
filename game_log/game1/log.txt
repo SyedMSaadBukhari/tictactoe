@@ -1,0 +1,35 @@
+Game 1 Log
+====================
+
+Players:
+- saad (X)
+- saad2 (O)
+
+First move: saad
+
+Moves:
+Move 1: saad -> Position 2
+Move 2: saad2 -> Position 5
+Move 3: saad -> Position 6
+Board After Move 3:
+ 1 | X | 3 
+-----------
+ 4 | O | X 
+-----------
+ 7 | 8 | 9 
+
+Move 4: saad2 -> Position 8
+Move 5: saad -> Position 4
+Move 6: saad2 -> Position 7
+Board After Move 6:
+ 1 | X | 3 
+-----------
+ X | O | X 
+-----------
+ O | O | 9 
+
+Move 7: saad -> Position 3
+Move 8: saad2 -> Position 9
+
+Result: saad2 wins!
+Game ended at: 2025-05-04 00:48:45
