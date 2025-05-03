@@ -34,7 +34,7 @@ tictactoe/
 - **Game History**: Automatic logging of all game moves and results
 - **Multiple Sessions**: Play multiple games in sequence
 - **Win Detection**: Automatic detection of winning moves and draws
-- **Structured Logs**: Each game's log stored in a separate directory
+- **Structured Logs**: Each game's log is stored in a separate directory
 
 ## Requirements
 
@@ -70,7 +70,7 @@ chmod +x tictactoe/main.py
 ## How to Play
 
 1. Start the game by running `main.py`
-2. Enter names for both players
+2. Enter the names of both players
    - If you enter "Computer" for a player name, that player will make random moves
 3. The board is numbered 1-9 as follows:
    ```
@@ -121,7 +121,7 @@ Game logs are automatically created in a `game_log` directory. Each game session
 
 Potential enhancements that could be added:
 
-- Smarter AI using minimax algorithm
+- Smarter AI using the minimax algorithm
 - Game statistics tracking
 - Customizable board size
 - GUI interface
